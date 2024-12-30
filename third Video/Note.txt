@@ -1,0 +1,23 @@
+In Js have DOM elments similar to in react hava react elements.
+
+We can write React without JSX also.
+but JSX makes developers life easy
+
+JSX => JavaScript Syntax which is eassier to create react elements
+JSX is different then HTML
+JSX is not html in js
+JSX - HTML like or XML like syntax
+
+Browser(JS) engine does not understand JSX
+
+JS? => JavaScript is a core that js engine understand
+JS engine understand ecmascript(ES6)
+
+JSX (Transpiled(Converted) before it reaches the JS engine) - Transpiling done by Parcel - Given responsiblity to Babel(package).
+bable is transpiler or compiler
+
+
+React.createElement => ReactElement-JS Object => HTMLElement(render)
+
+JSX => React.createElement => ReactElement-JS Object => HTMLElement(render)
+JSX is transpiled into React.createElement
