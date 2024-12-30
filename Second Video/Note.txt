@@ -1,0 +1,36 @@
+NPM is not a node package manager = NPM manages package
+NPX?
+
+Dependency is Two Types => Depth and Normal
+Depth Dependency = is used for Development
+Normal Dependency =  is used for Production
+
+What is Parcel?
+What is JSX?
+
+
+#Parcel
+- Dev build
+- Local Server
+- HMR = Hot Module Replacement
+- File Watching Algorithim - Written in c++
+- Caching - Faster Builds
+- Image Optimization
+- Minification
+- Compress
+- Bundling
+- Consistent Hashing
+- Code Spliting
+- Differetial Bundling - Support oldest browser
+- Diagnostic
+- Error Handling
+- HTTPs
+- Tree Shaking - Remove unused Code
+- Different dev and Production bundles
+
+
+For installing parcel = npm install -D parcel
+For enabling server = npx parcel file.html
+
+
+
