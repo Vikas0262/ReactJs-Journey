@@ -20,4 +20,19 @@ bable is transpiler or compiler
 React.createElement => ReactElement-JS Object => HTMLElement(render)
 
 JSX => React.createElement => ReactElement-JS Object => HTMLElement(render)
-JSX is transpiled into React.createElement
+JSX is transpiled into React.createElement (Here is also bable is converting)
+
+when we have to write attribute in JSX we have write in camelCase
+
+if you write jsx in multiple line we need to wrap in bracket And in single line dont need
+
+
+=== React Component ===
+There are two types of Component
+1 - Class Based Component (Oldest)
+
+2 - Functional Based Component (New) => Just a Normal JS Function that return some peace of jsx code or react element
+
+Component Composition => we used one Component inside component
+
+{} => In curly braces we can write JavaScript
