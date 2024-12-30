@@ -1,14 +1,12 @@
 {
   "name": "second-video",
   "version": "1.0.0",
-  "main": "index.js",
   "scripts": {
+    "start": "parcel react.html",
+    "build": "parcel build react.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "vikas",
   "license": "ISC",
-  "description": "",
-  "devDependencies": {
-    "parcel": "^2.13.3"
-  }
+  "description": "This is my first react project"
 }

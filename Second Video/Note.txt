@@ -1,3 +1,5 @@
+React.createElement => ReactElement-JS Object => HTMLElement(render)
+
 NPM is not a node package manager = NPM manages package
 NPX?
 
