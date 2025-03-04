@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "parcel": "^2.13.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "name": "fourth-video",
+  "version": "1.0.0",
+  "description": "Creating First Project Food Delivery Website Using React",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "vikas",
+  "license": "ISC",
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}

@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: gray;
+}
+.main-container{
+    margin-inline: 80px;
+}
+.nav-container{
+    display: flex;
+    align-items: center;  
+    justify-content: space-between; 
+    /* border: 1px solid blue; */
+}
+
+.nav-container .logo-container .logo{
+    width: 110px;
+    /* border: 1px solid red; */
+}
+
+.nav-lists{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    /* border: 1px solid green; */
+    /* margin-right: 50px; */
+}
+
+.list-items{
+    list-style: none;
+    font-size: 1.3rem;
+    color: black;
+}
+.list-items:hover{
+    color: gray;
+    cursor: pointer;
+}
+
+.search{
+    margin:5px 5px 20px 40px;
+}
+
+.res-card{
+    padding: 5px;
+    width: 211px;
+    height: 310px;
+    background-color: gainsboro;
+}
+.res-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.res-card:hover{
+    padding: 5px;
+    border: 1px solid black;
+    cursor: pointer;
+
+}
+.res-logo{
+    width: 100%;
+}
+
+.filter-btn{
+    margin-block: 20px;
+    cursor: pointer;
+}
+
+.btn{
+    padding: 10px 4px;
+}

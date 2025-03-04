@@ -1,0 +1,61 @@
+Passing props to component is similar like passing argument to a function.
+
+Never keep any hardcoded string in component file (like image path), hardcoded string send in util folder.
+
+There are two type export and two type import:
+1- Default export/Import
+export defalut componentName or Variable name;
+import component from 'path';
+
+2- Named export/Import
+export const component;
+import {component} from 'path';
+
+
+When you need to export multiple thing in one file we do named export.
+
+ReactElement => Plain JavaScript Object.
+
+Hooks => Just a normal js function, that function write such prebuilt logic 
+1- useState => whenever state variable update, react triggers a reconcilation cycle(re-render)
+2- useEffect => useEffect called after the render, its making re-render   
+
+
+
+fetch() => This function given by browser engine it is used to fetch data
+
+optional Chaining =>
+
+
+Never Keep any hardcoded data in app.js file everything put in utils folder and used variable making
+
+
+whenever state varibale changes react re-render my components
+
+react only good in dom manipulation
+
+react uses reconcilation algorithim is also known as react fiber
+
+virtual dom is a represantation of actual dom
+
+react fiber architecture is algorithim of react
+
+react doing effiecent dom manipulation because this is fast
+
+===========================================================================================
+
+video 6
+
+Monolithic architecture =>
+Microservice architecture => 
+
+
+Ther are two approch how data fetched from the backend
+1) Load - API - render
+2) Load - render - API - rerender
+2nd approch batter
+
+CROS =>
+
+Shimmar UI => we create fake data or fake cards until Api not loaded making ui batter
+we make fake ui experince so user can not say website is slow or taking much time
