@@ -1,0 +1,1 @@
+Jaise hi ham context create karte hai createContext ki help se to hame provider deta hai uske through ham data pass kar sakte hai
