@@ -1,0 +1,1 @@
+const LazyComponent = () => { return <div><p>This is a lazy loaded component!</p></div>; }; export default LazyComponent;
